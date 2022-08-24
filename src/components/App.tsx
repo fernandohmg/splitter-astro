@@ -152,7 +152,7 @@ function App() {
           />
         </div>
         <section className="bg-00474B rounded-2xl p-6 pt-9 lg:flex-1 flex flex-col justify-between">
-          <dl className="w-full flex flex-col gap-5">
+          <dl className="w-full grid grid-cols-2 gap-5">
             <DataRow label="Tip Amount" value={tipAmountPerPerson} />
             <DataRow label="Total" value={totalPerPerson} />
           </dl>
