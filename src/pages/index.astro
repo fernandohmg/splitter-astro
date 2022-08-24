@@ -1,0 +1,16 @@
+---
+import App from "../components/App";
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Splitter">
+	<App client:load />
+</Layout>
+
+<style>
+	html,
+	body,
+	#root {
+		height: 100%;
+	}
+</style>
