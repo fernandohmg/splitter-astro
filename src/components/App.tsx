@@ -97,7 +97,7 @@ function App() {
   };
 
   return (
-    <main className="bg-C5E4E7 min-h-full font-mono flex flex-col items-center">
+    <main className="bg-C5E4E7 min-h-full font-mono font-bold flex flex-col items-center">
       <div className="h-36 pt-12 lg:pt-[10.125rem] lg:h-[19rem]">
         <img src="/logo.svg" width={87} height={54} alt="Splitter logo" />
       </div>

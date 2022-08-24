@@ -352,6 +352,11 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.14.54.tgz#de2a4be678bd4d0d1ffbb86e6de779cde5999028"
   integrity sha512-bZBrLAIX1kpWelV0XemxBZllyRmM6vgFQQG2GdNb+r3Fkp0FOh1NJSvekXDs7jq70k4euu1cryLMfU+mTXlEpw==
 
+"@fontsource/space-mono@^4.5.9":
+  version "4.5.9"
+  resolved "https://registry.yarnpkg.com/@fontsource/space-mono/-/space-mono-4.5.9.tgz#e1dd1b187d81bdb17f92c91c48232a714bdcc6b2"
+  integrity sha512-xjgbZFYsSnPLJe4Doki9HbQAgPBBj/awEbD86dhhieUPSFTc86UjSRKhhw8LDqA5V6ulKJCsbySjmXbnPuTvKg==
+
 "@headlessui/react@^1.6.6":
   version "1.6.6"
   resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.6.6.tgz#3073c066b85535c9d28783da0a4d9288b5354d0c"
